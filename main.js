@@ -5,7 +5,7 @@ const yesBtn = document.getElementById("yes-btn");
 const noBtn = document.getElementById("no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Lo sabía 7w7r ❤✨";
+  question.innerHTML = "I love you too... ❤✨";
   gif.src = "https://i.pinimg.com/originals/ce/63/c2/ce63c26f8747e2181594d2db8787c026.gif";
   noBtn.hidden = true;
   yesBtn.hidden = true;
